@@ -71,6 +71,10 @@ client.on("message", async message => {
     message.channel.send(sayMessage);
   }
   
+  if(command === "github" || command === "credits" || command === "source") {
+    message.channel.send("**Source :** https://github.com/NeotiDev/discord.js-sample-bot");
+  }
+  
   if(command === "kick") {
     // This command must be limited to mods and admins.
     // Please read on Array.some() to understand this bit: 
