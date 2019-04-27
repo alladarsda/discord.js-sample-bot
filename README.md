@@ -1,29 +1,10 @@
 # discord.js-sample-bot
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot?ref=badge_shield)
-
-A repository for people who are new to **Discord.js**
-
-
 <div align="center">
-
   <p>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
---><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
+<img src="https://img.shields.io/discord/478157155279699971.svg?color=7289DA&label=Discord%20Chat&logo=Discord&logoColor=7289DA&style=plastic" alt="Discord Chat">
+<img src="https://img.shields.io/github/repo-size/NeotiDev/discord.js-sample-bot.svg?color=7289DA&label=Repository%20Size&logo=GitHub&style=plastic" alt="Repository Size">
   </p>
-
-<p>
-  <a href="https://github.com/NeotiDev/discord.js-sample-bot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/NeotiDev/discord.js-sample-bot.svg?style=for-the-badge" alt="License"></a>
-  </p>
-  
-  <p>
-    <p>
-    <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
-  </p>
-  </div>
-
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeotiDev%2Fdiscord.js-sample-bot?ref=badge_large)
+</div>
 
 ### Installation Procedure
 #### Install Node.js
