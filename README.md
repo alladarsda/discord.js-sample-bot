@@ -8,11 +8,14 @@
 
 ## Warning!
 We would highly suggest you to download the source code from [releases](https://github.com/NeotiDev/discord.js-sample-bot/releases) instead of downloading the master branch. Releases are tested in different environments and they've been optimized to work as expected.
+
 Master branch may include some bugs, and the latest commits might not even be tested by NeotiDev at all.
 
 ## This has been tested in Discord.js v11.4.2
 We already have a local version that is compatible with v12, and we will push it when Discord.js releases v12.
+
 Do note that v12 is a code-breaking update and it may break the whole code.
+
 Please get support from our [Discord server](https://neotidev.com/discord) for further assistance for migrating from v11 to v12.
 
 ### Installation Procedure
