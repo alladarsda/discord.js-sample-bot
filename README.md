@@ -36,17 +36,17 @@ We need to install **Discord.js** library in order to get everything working.
 We are going to do that with **NPM (Node Package Manager)**.  
 
 We already included a **package.json** file that will tell **NPM** which dependencies needs to be installed.  
-You need to do ```npm install``` or ```npm install discord.js``` and wait for it to be installed.
+You need to run ```npm install``` and wait for the dependencies to be installed.
 
 #### Get a token from Discord
 You need to navigate to the [Developers Section](https://discordapp.com/developers) of Discord and create an application. The procedure is extremely easy and step-by-step guided, so you shouldn't experience any problems.  
 
 After you have created your application, navigate to the **"Bot"** tab and create a bot account for your application.  
-Copy the token and enter it to **config.json** of the bot files you downloaded.
+Copy the token and add it to **config.json** of the bot files you downloaded.
 
 ### Run the application
-Run Node.js client, navigate to the folder that you downloaded the files and type `npm start` or `node index.js`.  
+Run Node.js client, navigate to the folder that you downloaded the files and type `npm start` or `node app.js`.  
 You're ready to go!  
 
-### Contributing  
+### Contributing
 Feel free to make contributions to the repository!
