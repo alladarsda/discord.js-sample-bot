@@ -4,6 +4,7 @@ const client = new Discord.Client();
 const config = require("./config.json");
 const fs = require("fs");
 const path = require("path");
+const TurkishCharacters = require("turkish-characters"); // Turkish-Characters is a NPM package that's made by NeotiDev.
 
 fs.readdir("./events/", (err, files) => {
   if (err) return console.error(err);
@@ -20,6 +21,7 @@ fs.readdir("./events/", (err, files) => {
 
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
+client.TurkishCharacters = TurkishCharacters;
 
 fs.readdir("./commands/", (err, files) => {
     if(err) console.error(err);
